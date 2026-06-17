@@ -7,13 +7,13 @@ Este projeto contém três versões de uma calculadora desenvolvidas em Node.js,
 Antes de executar qualquer calculadora, faça o clone do repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/rogerioweber/calculadora.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd calculadora
 ```
 
 Instale as dependências necessárias:
